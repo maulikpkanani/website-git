@@ -4,4 +4,4 @@ This is a good website
 
 example to study the branching on github
 
-**updating the readme file**
+**updating**
