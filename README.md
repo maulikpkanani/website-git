@@ -7,3 +7,7 @@ This file just got edited
 
 
 changes for the tag
+
+## Getting started
+
+This is a getting started section
